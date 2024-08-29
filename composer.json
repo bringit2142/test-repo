@@ -1,0 +1,5 @@
+{
+    "name": "bringit2142/test-repo",
+    "type": "drupal-custom-module",
+    "description": "A module that tests composer implementation"
+  }
